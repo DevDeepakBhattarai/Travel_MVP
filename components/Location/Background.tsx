@@ -10,7 +10,7 @@ export default function Background({}: Props): ReactElement {
       <Image
         src={BackgroundImage}
         alt=""
-        className="h-full w-full object-cover relative -z-20"
+        className="h-screen w-screen object-cover relative -z-20"
       />
     </div>
   );
