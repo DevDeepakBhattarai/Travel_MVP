@@ -6,11 +6,11 @@ interface Props {}
 
 export default function Background({}: Props): ReactElement {
   return (
-    <div className="absolute inset-0 bg-darken">
+    <div className="h-screen w-screen absolute bg-darken">
       <Image
         src={BackgroundImage}
         alt=""
-        className="h-screen w-screen object-cover relative -z-20"
+        className=" object-cover relative -z-20"
       />
     </div>
   );
