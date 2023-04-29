@@ -26,7 +26,7 @@ export default function App({ Component, pageProps }: AppProps) {
         <title>Find the perfect accommodation with ease</title>
         <meta
           name="description"
-          content="Callum Travel is a full-service travel agency that helps you find the perfect accommodation. Search for the best hotels in the world with Callum Travel "
+          content="SuperGuest is a full-service travel agency that helps you find the perfect accommodation. Search for the best hotels in the world with SuperGuest"
         />
         <meta
           name="keywords"
